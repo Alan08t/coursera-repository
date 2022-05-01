@@ -1,0 +1,46 @@
+.title {
+	text-align: center;
+	size: 1.75em;
+	margin-bottom: 50px;
+	font-family: Helvetica;
+}
+.title-section {
+	position: relative;
+	top: 0px;
+	right: 0px;
+	margin-top: auto;
+	margin-bottom: 20px;
+	border: solid;
+	float: right;
+	font-size: 1.25em;
+	width: 40%;
+	text-align: center;
+}
+.box {
+	position: relative;
+	margin: 10px;
+	border: solid;
+	box-sizing: content-box;
+	background-color: lightblue;
+}
+
+p {
+	position: relative;
+	margin-bottom: 5px;
+	margin-top: 25px;
+	font-family: calibri;
+}
+
+* {
+	font-family: calibri;
+}
+
+.title1 {
+	background-color: hotpink;
+}
+.title2 {
+	background-color: indianred;
+}
+.title3 {
+	background-color: yellowgreen;
+}
